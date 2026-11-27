@@ -48,7 +48,7 @@ Implemented two type-hinted, documented Python functions backed by `CATALOGUE` t
 
 ## Setup & How to Run
 
-1. Open the notebook in **Google Colab** (`agenticAI_Day1.ipynb`).
+1. Open the notebook in **Google Colab** (`task.py`).
 2. Add your `GROQ_API_KEY` in Colab **Secrets** (left sidebar key icon) and enable **Notebook access**.
 3. Run the LangChain setup cell:
    ```python
