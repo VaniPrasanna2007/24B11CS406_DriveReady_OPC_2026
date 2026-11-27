@@ -42,7 +42,7 @@ Day 2 builds upon single-turn API calls from Day 1 to construct a stateful, rule
 
 ## Setup & How to Run
 
-1. Open the notebook in **Google Colab** (`agenticAI_Day1.ipynb`).
+1. Open the notebook in **Google Colab** (`task.py`).
 2. Add your `GROQ_API_KEY` in Colab **Secrets** (left sidebar key icon) and enable **Notebook access**.
 3. Run the setup cell to install dependencies and initialize the Groq client:
    ```python
